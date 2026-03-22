@@ -2,11 +2,9 @@
   "schema": "cofabric.task_status.v1",
   "task_number": 1,
   "title": "Database Schema and Supabase Configuration",
-  "status": "pending",
+  "status": "done",
   "priority": "high",
   "description": "Set up the complete PostgreSQL database schema in Supabase including all core tables and relationships. This includes: Users table (with profile fields, subscription tier), Photos table (with storage URLs, EXIF data JSON, AI-generated fields), Follows table (follower/following relationships), Likes table, Comments table, and Subscriptions table. Configure Row Level Security (RLS) policies for all tables to ensure users can only access appropriate data. Create necessary indexes for query performance (user_id on photos, follower_id/following_id on follows, photo_id on likes/comments). Set up database types for TypeScript integration.",
-  "completion_summary": null,
-  "pr_url": null,
-  "pr_doc": null,
-  "updated_at": "2026-03-22T19:00:56.070Z"
+  "completion_summary": "Task marked done",
+  "updated_at": "2026-03-22T19:03:52.704Z"
 }
