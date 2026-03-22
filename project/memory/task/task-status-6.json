@@ -1,0 +1,12 @@
+{
+  "schema": "cofabric.task_status.v1",
+  "task_number": 6,
+  "title": "Social Features - Follow System",
+  "status": "pending",
+  "priority": "medium",
+  "description": "Implement the complete follow/unfollow system. Create API endpoints for follow and unfollow actions. Build follow button component with optimistic UI updates. Create followers and following list views accessible from profile. Implement efficient queries for checking follow status and counting followers/following. Add follow suggestions for new users based on activity. Ensure follow actions update feed content appropriately (followed user's photos appear in feed).",
+  "completion_summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-22T19:00:57.671Z"
+}

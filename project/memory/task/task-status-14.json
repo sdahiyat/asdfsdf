@@ -1,0 +1,12 @@
+{
+  "schema": "cofabric.task_status.v1",
+  "task_number": 14,
+  "title": "Responsive Layout and Navigation",
+  "status": "pending",
+  "priority": "medium",
+  "description": "Build the complete responsive layout system and navigation components. Create header component with logo, search bar, navigation links, and user menu. Build mobile-responsive navigation (hamburger menu or bottom nav). Implement global layout wrapper used across all pages. Add loading states and skeleton screens for content loading. Create toast/notification system for user feedback. Ensure all existing pages work well on mobile, tablet, and desktop. Implement dark mode support if time permits. Add PWA configuration for installability.",
+  "completion_summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-22T19:01:00.551Z"
+}

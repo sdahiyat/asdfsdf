@@ -1,0 +1,12 @@
+{
+  "schema": "cofabric.task_status.v1",
+  "task_number": 11,
+  "title": "Subscription and Payment System",
+  "status": "pending",
+  "priority": "medium",
+  "description": "Implement freemium subscription system with Stripe integration. Create subscription tiers (Free, Pro) with feature matrix. Build pricing page displaying plan comparison. Integrate Stripe Checkout for subscription purchases. Implement Stripe webhook handlers for subscription lifecycle events (created, updated, cancelled, payment failed). Store subscription status in database and sync with Stripe. Build subscription management UI in settings (view plan, upgrade, cancel). Implement feature gating based on subscription tier throughout app. Handle payment failures and grace periods.",
+  "completion_summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-22T19:00:59.616Z"
+}

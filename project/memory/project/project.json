@@ -1,0 +1,81 @@
+
+
+**PhotoBuddy - AI Photo Sharing App**
+
+## **Overview**
+
+An app where people can share photos and AI helps them. Social media but for photographers basically. We want it to be cool and modern.
+
+## **Features**
+
+- Upload photos
+- AI does stuff with the photos (like editing maybe? or suggestions)
+- Users can follow each other
+- Some kind of feed
+- Comments and likes probably
+- Maybe a marketplace where people sell prints?
+- Search
+
+## **Tech Stack**
+
+React Native I think? Or maybe Next.js web app. Need to decide. Database - postgres or something AI - use Claude or OpenAI for the image stuff
+
+## **Pages**
+
+- Home page with feed
+- Profile page
+- Upload page
+- Settings
+
+## **AI Features**
+
+The AI should be able to:
+
+- Look at a photo and give feedback
+- Suggest edits
+- Auto-tag photos
+- Maybe generate captions for social media
+- Something with style transfer?
+
+## **Monetization**
+
+Freemium model. Free users get limited uploads. Paid users get unlimited + AI features. Pricing TBD but probably like $10/month?
+
+## **MVP**
+
+Just get the basic upload and feed working first. AI stuff can come later. We need auth too obviously.
+
+## **Notes**
+
+- Need to figure out image storage (S3? Cloudinary?)
+- Mobile responsive is important
+- Should we do PWA or native app?
+- Competitor research: VSCO, Glass, 500px
+- Someone mentioned we need EXIF data handling
+- What about content moderation?
+- GDPR stuff??
+---
+## Scaffolding
+
+The following foundational files were generated and pushed to the repository:
+
+- `project/package.json`
+- `project/tsconfig.json`
+- `project/next.config.js`
+- `project/tailwind.config.ts`
+- `project/postcss.config.js`
+- `project/src/app/globals.css`
+- `project/src/app/layout.tsx`
+- `project/src/app/page.tsx`
+- `project/src/lib/supabase.ts`
+- `project/src/lib/openai.ts`
+- `project/src/lib/utils.ts`
+- `project/.env.local.example`
+- `project/.gitignore`
+- `project/README.md`
+- `project/pr-docs/.gitkeep`
+- `project/memory/.gitkeep`
+- `project/memory/project/.gitkeep`
+- `project/memory/task/.gitkeep`
+- `project/memory/agent/.gitkeep`
+- `project/memory/context/.gitkeep`

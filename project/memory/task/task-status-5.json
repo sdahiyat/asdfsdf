@@ -1,0 +1,12 @@
+{
+  "schema": "cofabric.task_status.v1",
+  "task_number": 5,
+  "title": "User Profile Page",
+  "status": "pending",
+  "priority": "medium",
+  "description": "Build the user profile page displaying user information and their photo grid. Show profile header with avatar, username, bio, and follower/following counts. Display user's uploaded photos in a responsive grid layout. Implement edit profile functionality for own profile (update avatar, username, bio). Show follow/unfollow button on other users' profiles. Handle profile not found states. Add navigation between profile tabs if needed (photos, liked photos). Ensure profile is viewable by logged-out users for public profiles.",
+  "completion_summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-22T19:00:57.357Z"
+}

@@ -1,0 +1,12 @@
+{
+  "schema": "cofabric.task_status.v1",
+  "task_number": 3,
+  "title": "Photo Upload and Cloud Storage Infrastructure",
+  "status": "pending",
+  "priority": "high",
+  "description": "Build the photo upload system with cloud storage integration (Cloudinary or S3 - implement abstraction layer to support either). Create the Upload page with drag-and-drop and file picker interfaces. Implement client-side image validation (file type, size limits). Extract and store EXIF metadata from uploaded photos. Generate and store thumbnail versions for feed performance. Handle upload progress indication and error states. Store photo records in database with storage URLs and metadata. Implement upload limits based on user subscription tier (enforce free tier limits).",
+  "completion_summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-22T19:00:56.733Z"
+}

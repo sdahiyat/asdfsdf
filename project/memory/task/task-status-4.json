@@ -1,0 +1,12 @@
+{
+  "schema": "cofabric.task_status.v1",
+  "task_number": 4,
+  "title": "Photo Feed and Home Page",
+  "status": "pending",
+  "priority": "high",
+  "description": "Build the home page featuring a photo feed with infinite scroll pagination. Display photos from followed users (personalized feed) with fallback to popular/recent photos for new users or users following nobody. Each photo card shows the image, photographer info (avatar, username), engagement counts (likes, comments), and timestamp. Implement efficient database queries with proper indexing usage. Add pull-to-refresh functionality. Handle empty states gracefully. Optimize image loading with lazy loading and proper sizing.",
+  "completion_summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-22T19:00:57.072Z"
+}

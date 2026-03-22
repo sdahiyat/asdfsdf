@@ -1,0 +1,12 @@
+{
+  "schema": "cofabric.task_status.v1",
+  "task_number": 10,
+  "title": "AI Caption Generation",
+  "status": "pending",
+  "priority": "low",
+  "description": "Build feature to generate social media captions for photos using AI. Create UI component/button to request caption generation from photo detail view. Use photo analysis data (tags, content description) as context for caption generation. Generate multiple caption options with different tones (professional, casual, witty). Allow users to copy generated captions easily. Store generated captions with photo for reuse. Implement caption regeneration with different style options. Gate feature behind paid subscription.",
+  "completion_summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-22T19:00:58.981Z"
+}

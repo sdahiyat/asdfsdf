@@ -1,0 +1,12 @@
+{
+  "schema": "cofabric.task_status.v1",
+  "task_number": 7,
+  "title": "Engagement Features - Likes and Comments",
+  "status": "pending",
+  "priority": "medium",
+  "description": "Implement likes and comments functionality for photos. Build like button with optimistic updates and animation feedback. Create comment section component with real-time comment display, input field, and submission. Display like and comment counts on photo cards. Create API endpoints for like/unlike and CRUD operations on comments. Implement efficient queries for fetching engagement data with photos. Add ability to delete own comments. Show who liked a photo (likers list modal).",
+  "completion_summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-22T19:00:57.977Z"
+}

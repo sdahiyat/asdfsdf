@@ -1,0 +1,12 @@
+{
+  "schema": "cofabric.task_status.v1",
+  "task_number": 13,
+  "title": "Content Moderation and Safety",
+  "status": "pending",
+  "priority": "low",
+  "description": "Implement content moderation system for uploaded photos. Integrate AI-based content moderation (OpenAI moderation API or similar) to flag potentially inappropriate uploads. Create admin review queue for flagged content (can be simple database status + admin page). Implement automatic rejection of clearly violating content. Add user reporting functionality for photos and comments. Create content policy page documenting guidelines. Handle moderated content appropriately (hide from feed, notify user). Implement appeal process for wrongly flagged content.",
+  "completion_summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-22T19:01:00.239Z"
+}

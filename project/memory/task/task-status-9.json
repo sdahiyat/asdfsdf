@@ -1,0 +1,12 @@
+{
+  "schema": "cofabric.task_status.v1",
+  "task_number": 9,
+  "title": "AI Photo Analysis and Auto-tagging",
+  "status": "pending",
+  "priority": "medium",
+  "description": "Integrate OpenAI Vision API to analyze uploaded photos. Implement async job processing for AI analysis (don't block upload). Generate and store AI tags describing photo content, style, and composition. Generate AI feedback/suggestions for improving the photo (composition tips, editing suggestions). Build UI to display AI analysis results on photo detail view. Implement rate limiting for AI API calls. Gate advanced AI features behind paid subscription tier. Handle API errors gracefully with retry logic.",
+  "completion_summary": null,
+  "pr_url": null,
+  "pr_doc": null,
+  "updated_at": "2026-03-22T19:00:58.605Z"
+}
