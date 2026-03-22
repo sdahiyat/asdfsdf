@@ -1,6 +1,0 @@
-{
-  "overview": "Test PR doc for WI-2 validation",
-  "summary_json": {"route": "/api/tasks/[id]"},
-  "files_changed": [{"path": "lib/memoryWriter.ts", "summary": "Added enrichTaskStatusFile"}],
-  "fallback_text": "This is a test PR doc to verify fetchPrDoc works end-to-end."
-}
